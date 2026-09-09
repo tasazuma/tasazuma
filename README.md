@@ -47,10 +47,10 @@ AIにすべてを任せるのではなく、エンジニア自身が技術を理
 TypeScript / Vue.js / React / Next.js
 
 **Backend**  
-Java / Spring Boot
+Java / Spring Boot / PHP
 
 **Data**  
-PostgreSQL / PostGIS
+MySQL / PostgreSQL / PostGIS
 
 **Cloud / Infrastructure**  
 AWS / Docker / GitHub Actions
