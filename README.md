@@ -27,7 +27,7 @@
 **「地域の情報で、人と場所をつなぐ」** というテーマに、あらためてAIを使った開発で取り組んでいるのがex-dayです。
 
 - 📍 現在:構想・プロトタイプ段階
-- 📝 **AIとのやりとり(プロンプトと結果)を [`docs/ai/`](https://github.com/ex-day/platform/tree/main/docs/ai) で公開しています**
+- 📝 **AIとのやりとり(プロンプトと結果)を [`docs/ai/`](https://github.com/ex-day/platform/tree/main/docs/ai) で公開しています（現在公開準備中）**
 - 🙌 募集している仲間:開発者 / 企画 / 地域・歴史情報に詳しい方
 
 ---
