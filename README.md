@@ -43,7 +43,7 @@ flowchart LR
   C --> D[最終判断は自分で]
 ```
 
-**使っているツール**:Claude / GitHub Copilot
+**使っているツール**:ChatGPT / Claude / GitHub Copilot
 **使っている場面**:要求整理、技術調査・比較、アーキテクチャ検討、実装・レビューの補助、ドキュメント作成
 
 ---
